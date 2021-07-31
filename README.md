@@ -1,2 +1,2 @@
 # gittestfolder
-git test용 repo입니다.
+- git test용 repo입니다.
